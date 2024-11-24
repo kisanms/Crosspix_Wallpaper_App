@@ -1,4 +1,4 @@
-![Screenshot_20241124_085918](https://github.com/user-attachments/assets/0e55eef9-0977-4c71-9834-595a77e7362f)<div align="center">
+<div align="center">
 
 # 🎨 **Crosspix: Your Ultimate Wallpaper App** 📱
 
@@ -52,35 +52,32 @@ Download Crosspix today and unlock a world of captivating wallpapers!
 | 🌐 **Web Version**      | [Explore Online](https://lnkd.in/dibxFhHE)                           |
 
 ---
-<h2>Splash Screen</h2>
 
-![Screenshot_20241124_090421](https://github.com/user-attachments/assets/24c326c4-727d-4857-adb7-eed6d5413f82)
+## 📸 **Screenshots**
 
+### 🌟 **Splash Screen**
+<img src="https://github.com/user-attachments/assets/24c326c4-727d-4857-adb7-eed6d5413f82" alt="Splash Screen" height="900px">
 
-<h2>Intro Screen</h2>
+### ✨ **Intro Screen**
+<img src="https://github.com/user-attachments/assets/aec443ce-3759-4ddf-82c9-e3b3656f1449" alt="Intro Screen" height="900px">
 
-![Screenshot_20241124_085918](https://github.com/user-attachments/assets/aec443ce-3759-4ddf-82c9-e3b3656f1449)
+### 🏠 **Home Screen**
+<img src="https://github.com/user-attachments/assets/6df8109b-15a2-4c10-97e3-ee03e142337c" alt="Home Screen" height="900px">
 
-<h2>Home Screen</h2>
+### 🔍 **Searching**
+<img src="https://github.com/user-attachments/assets/d3335f27-710a-4781-99f9-f9e0140d5767" alt="Searching" height="900px">
 
-![Screenshot_20241124_085956](https://github.com/user-attachments/assets/6df8109b-15a2-4c10-97e3-ee03e142337c)
+### 🗂️ **Categories**
+<img src="https://github.com/user-attachments/assets/dc08e351-e488-4d48-8e10-a37a91aaa042" alt="Categories 1" height="900px">
+<img src="https://github.com/user-attachments/assets/972d0528-2dc8-4fe1-8eb1-68884f44e4aa" alt="Categories 2" height="900px">
 
-<h2>Searching</h2>
+### 🎛️ **Filters**
+<img src="https://github.com/user-attachments/assets/649c7cd0-5b37-444e-9a8f-743691c0e5a4" alt="Filters" height="900px">
 
-![Screenshot_20241124_090106](https://github.com/user-attachments/assets/d3335f27-710a-4781-99f9-f9e0140d5767)
+### 🖼️ **Filter Output**
+<img src="https://github.com/user-attachments/assets/f9a88122-13d5-4800-8096-a417e7494d55" alt="Filter Output" height="900px">
 
-<h2>Categories</h2>
-
-![Screenshot_20241124_090148](https://github.com/user-attachments/assets/dc08e351-e488-4d48-8e10-a37a91aaa042)
-![Screenshot_20241124_090246](https://github.com/user-attachments/assets/972d0528-2dc8-4fe1-8eb1-68884f44e4aa)
-
-<h2>Filters</h2>
-
-![Screenshot_20241124_090320](https://github.com/user-attachments/assets/649c7cd0-5b37-444e-9a8f-743691c0e5a4)
-
-<h2>Filter Output</h2>
-
-![Screenshot_20241124_090335](https://github.com/user-attachments/assets/f9a88122-13d5-4800-8096-a417e7494d55)
+---
 
 ### 💡 **Why Crosspix?**
 Crosspix is more than just a wallpaper app—it’s your gateway to **personal expression**, **seamless browsing**, and a touch of **creativity** every day. 🌈  
